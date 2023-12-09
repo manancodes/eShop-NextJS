@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between m-4 md:m-10 lg:m-16">
         {/* Logo on the left */}
         <div className="flex-shrink-0 relative sm:w-32 sm:h-14 w-20 h-10">
-          <Image src="/eShop.svg" alt="Logo" fill priority />
+          <Image src="/eSHOP.svg" alt="Logo" fill priority />
         </div>
 
         {/* Search bar in the middle on desktop */}
